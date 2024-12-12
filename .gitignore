@@ -1,0 +1,6 @@
+docs
+venv
+.env
+test_response.json
+job_role_recommender.py
+staging_area.py

@@ -1,0 +1,7 @@
+Flask
+flask[async]
+python-dotenv
+flake8
+google.generativeai
+aiohttp
+asyncio
